@@ -10,3 +10,5 @@ Day-22 of Android Course:- How to use Advance ListView to show profile pic, Name
 </p>
 <hr><hr>
 <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort1.jpg?raw=true" alt="https://youtube.com/@ritikcoder" height="500" width="250" />
+<img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort2.jpg?raw=true" height="500" width="250" />
+
