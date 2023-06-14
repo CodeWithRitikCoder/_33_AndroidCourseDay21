@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_screen"
+    tools:context=".UserInformation">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imageViewForProfileImage"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/img_0"
+            app:civ_border_width="2dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            app:civ_border_color="#FF000000"/>
+
+        <TextView
+            android:id="@+id/textViewForShowUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="@drawable/text_view_bg"
+            android:textColor="@color/white"
+            android:padding="10dp"
+            android:layout_marginTop="80sp"
+            android:layout_marginStart="50sp"
+            android:layout_marginEnd="20sp"
+            android:text="@string/user_name" />
+
+        <TextView
+            android:id="@+id/textViewForShowLastMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="@drawable/text_view_bg"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="50sp"
+            android:layout_marginStart="50sp"
+            android:layout_marginEnd="20sp"
+            android:text="@string/user_last_message" />
+
+        <TextView
+            android:id="@+id/textViewForShowLastMessageTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="@drawable/text_view_bg"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="50sp"
+            android:layout_marginStart="50sp"
+            android:layout_marginEnd="20sp"
+            android:text="@string/user_last_message_time" />
+
+        <TextView
+            android:id="@+id/textViewForShowPhoneNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:background="@drawable/text_view_bg"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="50sp"
+            android:layout_marginStart="50sp"
+            android:layout_marginEnd="20sp"
+            android:text="@string/user_phone_number" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
