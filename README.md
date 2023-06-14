@@ -10,7 +10,7 @@ Day-22 of Android Course:- How to use Advance ListView to show profile pic, Name
 </p>
 <hr><hr>
 <h2>&#8649 My Application Preview ScreenShorts</h2>
-<table>
+<table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
       <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort1.jpg?raw=true" alt="https://youtube.com/@ritikcoder" height="500" width="250" />
