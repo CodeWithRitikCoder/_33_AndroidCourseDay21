@@ -13,24 +13,24 @@ Day-22 of Android Course:- How to use Advance ListView to show profile pic, Name
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort1.jpg?raw=true" alt="https://youtube.com/@ritikcoder" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort1.jpg?raw=true" alt="ScreenShort 1 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort2.jpg?raw=true" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort2.jpg?raw=true" alt="ScreenShort 2 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort3.jpg?raw=true" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort3.jpg?raw=true" alt="ScreenShort 3 of Application" height="500" width="250" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort4.jpg?raw=true" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort4.jpg?raw=true" alt="ScreenShort 4 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort5.jpg?raw=true" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort5.jpg?raw=true" alt="ScreenShort 5 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort6.jpg?raw=true" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay21/blob/master/project21_screenshorts/project21_screenshort6.jpg?raw=true" alt="ScreenShort 6 of Application" height="500" width="250" />
     </td>
   </tr>
 </table>
